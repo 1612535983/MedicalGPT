@@ -340,3 +340,4 @@ Thanks for their great work!
 #### 关联项目推荐
 - [shibing624/ChatPilot](https://github.com/shibing624/ChatPilot)：给 LLM Agent（包括RAG、在线搜索、Code interpreter） 提供一个简单好用的Web UI界面
 
+mylearing——test
